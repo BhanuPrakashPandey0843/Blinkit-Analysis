@@ -1,7 +1,7 @@
 <div align="center">
   <img src="blinkit_logo.png" alt="Blinkit Logo" width="200"/>
 
-# Blinkit Sales Analysis 📊
+# Blinkit Sales Analysis 
 </div>
 
 ---
@@ -147,7 +147,7 @@ Make sure your virtual environment is selected:
 ## 🙋 Contact
 
 **Developer:** Bhanu Prakash Pandey
-📧 Email: \[Your Email Here]
+📧 Email: \bhanupandey0843@gmail.com
 🔗 GitHub: [@BhanuPrakashPandey0843](https://github.com/BhanuPrakashPandey0843)
 
 ---
