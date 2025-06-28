@@ -160,15 +160,4 @@ If you find this project insightful or useful, feel free to ⭐ star the reposit
 
 © 2025 Bhanu Prakash Pandey. All rights reserved.
 
-```
 
----
-
-Let me know if you'd like:
-- A `LICENSE` file
-- A `Binder` or `Kaggle` link for running online
-- Exported PDF/HTML reports
-- Deployment as a Streamlit dashboard
-
-I'm happy to help further!
-```
